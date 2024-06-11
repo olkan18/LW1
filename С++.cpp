@@ -3,7 +3,7 @@
 #include <ctime>
 
 int main() {
-    // Масив з можливими варіантами
+    // Масив з можливих варіантів raspberry
     const char* options[] = {
         "Варіант 1",
         "Варіант 2",
